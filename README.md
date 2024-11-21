@@ -1,1 +1,2 @@
-# Amazon-Clone
+# Amazon-Clone 
+Ön tasarım Görsel Gifidir
